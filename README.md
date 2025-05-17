@@ -10,7 +10,7 @@ The trainer has integrated several features:
 
 * Aspect Ratio Bucket and Custom Batch
 * Utilizing Hidden States of CLIP’s Penultimate Layer
-* Nai-style Tag Processing (w/ Tag Fliter and Cliper)
+* Nai-style Tag Processing (w/ Tag Filter and Cliper)
 * Extending the Stable Diffusion Token Limit by 3x
 * Lora/Locon Training
 * Min-SNR Weighting Strategy
